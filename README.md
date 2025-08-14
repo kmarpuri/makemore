@@ -1,2 +1,2 @@
 # makemore
-This is a replica of makemore by Andrej Karpathy
+This is my interpretation of makemore by Andrej Karpathy
